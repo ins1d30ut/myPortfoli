@@ -25,7 +25,7 @@ function EventItem(props) {
           </div>
         </div>
         <div>
-          <Link hreft={exploreLink}>Explore Event</Link>
+          <Link href={exploreLink}>Explore Event</Link>
         </div>
       </div>
     </li>
